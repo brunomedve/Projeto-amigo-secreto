@@ -17,4 +17,4 @@ O objetivo do projeto é criar um **sorteio digital de Amigo Secreto**, evitando
 
 ## 📌 Acesse por aqui 👇
 
-[Projeto amigo secreto](https://projeto-amigo-secreto-ecru.vercel.app/)
+[Projeto amigo secreto](https://amigo-secreto-iota-ecru.vercel.app/)
